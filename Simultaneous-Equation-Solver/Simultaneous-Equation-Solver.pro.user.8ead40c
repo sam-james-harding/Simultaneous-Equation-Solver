@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.15.1, 2021-07-08T22:47:38. -->
+<!-- Written by QtCreator 4.15.0, 2021-05-28T13:52:06. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{5ddee155-0850-457a-b69b-032cf4a40992}</value>
+  <value type="QByteArray">{8ead40cf-d51f-4525-85b8-1129dceef4f2}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -89,16 +89,16 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">Desktop</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop (x86-darwin-generic-mach_o-64bit)</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop (x86-darwin-generic-mach_o-64bit)</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{aa7cf080-a5a8-46f0-bbf3-367402aeb5cd}</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.1.0 clang 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.1.0 clang 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt6.610.clang_64_kit</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -135,8 +135,8 @@
     <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -175,8 +175,8 @@
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -299,7 +299,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/Users/sam/Documents/GitHub/Simultaneous-Equation-Solver/build-Simultaneous-Equation-Solver-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Two-Variable Simultaneous Equation Solver.app/Contents/MacOS</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/Users/sam/build-Simultaneous-Equation-Solver-Desktop_Qt_6_1_0_clang_64bit-Debug/Two-Variable Simultaneous Equation Solver.app/Contents/MacOS</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
